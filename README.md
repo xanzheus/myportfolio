@@ -1,3 +1,3 @@
 ## My Portfolio
 
-[``LINK``](https://xanxheus.github.io/myportfolio)
+[``LINK``](https://xanzheus.github.io/myportfolio)
