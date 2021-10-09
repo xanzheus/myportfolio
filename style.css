@@ -4,7 +4,7 @@
 }
 
 #gallery {
-  background-image: url(img/abstract.webp);
+  background-image: #e2edff;
   background-size: cover;
   background-repeat: repeat;
   background-clip: border-box;
